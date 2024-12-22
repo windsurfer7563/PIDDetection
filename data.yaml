@@ -1,0 +1,10 @@
+
+# train and val datasets (image directory or *.txt file with image paths)
+train: /Users/windsurfer_ua/dev/Computer-Vision-Course/PIDDetection/dataset/train
+val: /Users/windsurfer_ua/dev/Computer-Vision-Course/PIDDetection/dataset/val
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Components']

@@ -1,0 +1,12 @@
+
+# train and val datasets (image directory or *.txt file with image paths)
+train: /Users/windsurfer_ua/dev/Computer-Vision-Course/PIDDetection/dataset/train_multiclass
+val: /Users/windsurfer_ua/dev/Computer-Vision-Course/PIDDetection/dataset/val_multiclass
+
+# number of classes
+nc: 8
+
+# class names
+names: ['Equipment','Instrument','Instrument Valve','Label Equipment','Label Instrument','Label Pipeline', 'Label Valve','Valve']
+
+
