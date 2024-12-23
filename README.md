@@ -1,2 +1,2 @@
-P&ID schemas object detection
+P&ID schemas object detection using neuralnetwork (YOLO architercture) approach
 
